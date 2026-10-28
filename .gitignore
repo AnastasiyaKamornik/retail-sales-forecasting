@@ -1,0 +1,25 @@
+# Raw datasets
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Experiment tracking
+mlruns/
+mlflow.db
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+data/processed/features.parquet
+Untitled.ipynb
